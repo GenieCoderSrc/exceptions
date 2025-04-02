@@ -1,7 +1,9 @@
 name: exceptions
-description: "A new Flutter package project."
+description: "Exceptions is a Dart package that provides a structured way to handle failures and errors in Flutter applications. It includes predefined authentication, database, API, and network failure messages, along with utility functions to map failures to user-friendly messages."
 version: 0.0.1
-homepage:
+homepage: https://github.com/GenieCoderSrc/exceptions
+repository: https://github.com/GenieCoderSrc/exceptions
+issue_tracker: https://github.com/GenieCoderSrc/exceptions/issues
 
 environment:
   sdk: ^3.6.0
@@ -23,6 +25,8 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+example:
+  path: example
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
